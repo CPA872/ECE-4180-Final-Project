@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Digital HVAC Controller
+### ECE 4180 Final Project
+### Team: Yue Pan, Zhou Lu
 
 You can use the [editor on GitHub](https://github.com/CPA872/ECE-4180-Final-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
