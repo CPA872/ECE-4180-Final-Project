@@ -1,9 +1,13 @@
 # ECE 4180 Final Project
 ## Digital HVAC Controller
 Yue Pan, Zhou Lu
+
 Demo Video Link: https://youtu.be/D2i0VEtWlDY
+
 Presentation Video Link:
+
 GitHub Webpage: https://cpa872.github.io/ECE-4180-Final-Project/
+
 MBED Wiki Link: https://os.mbed.com/users/cx872/code/4180-final_project/
 
 
