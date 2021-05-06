@@ -61,11 +61,12 @@ Prints numbers to specific areas on the LCD
 ### Image Gallery
 
 ### Embedded Presentation Video
-[![](http://img.youtube.com/vi/cG2J5QSIfjU/0.jpg)](http://www.youtube.com/watch?v=cG2J5QSIfjU "")
+{% include youtubePlayer.html id=cG2J5QSIfjU %}
 
 
 ### Embedded Demo Video
-[![](http://img.youtube.com/vi/D2i0VEtWlDY/0.jpg)](http://www.youtube.com/watch?v=D2i0VEtWlDY "")
+{% include youtubePlayer.html id=D2i0VEtWlDY %}
+
 
 
 ### Future Work
