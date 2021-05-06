@@ -57,8 +57,11 @@ Prints numbers to specific areas on the LCD
 
 
 ### Schematic
+![Alt Text](/images/logo.png)
 
 ### Image Gallery
+![AltText](/images/logo.png)
+
 
 ### Embedded Presentation Video
 {% include youtubePlayer.html id=cG2J5QSIfjU %}
