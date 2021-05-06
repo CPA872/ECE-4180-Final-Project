@@ -25,9 +25,7 @@ MBED Repo Link: [https://os.mbed.com/users/cx872/code/4180-final_project/](https
 5. Calibrate the device by setting your existing thermostat to the "almost on" position (i.e. any cooler and the AC will engage). Attach the servo to the thermostat and set the device's Set Temperature to be the same as the "Room Temperature" indicated.
 6. You are now ready to use the device!
 
-Note: To use the Bluetooth Remote, please type
-`set xx.x`
-into the bluetooth serial port and hit enter, where xx.x is your temperature in celsius.
+Note: To set the temperature using the Bluetooth Remote, please type `set xx.x` into the bluetooth serial port and hit enter, where xx.x is your temperature in celsius.
 
 ## Motivation
 HVAC Control in old Apartments (e.g. North Avenue East) is achieved through a wall-mounted knob. This can be inaccurate, with an unknown set temperature value and room temperature varying in a wide range wround the "set" temperature.
