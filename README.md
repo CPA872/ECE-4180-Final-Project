@@ -4,11 +4,11 @@ Yue Pan, Zhou Lu
 
 Demo Video Link: https://youtu.be/D2i0VEtWlDY
 
-Presentation Video Link:
+Presentation Video Link: https://youtu.be/cG2J5QSIfjU
 
 GitHub Webpage: https://cpa872.github.io/ECE-4180-Final-Project/
 
-MBED Wiki Link: https://os.mbed.com/users/cx872/code/4180-final_project/
+MBED Repo Link: https://os.mbed.com/users/cx872/code/4180-final_project/
 
 
 
