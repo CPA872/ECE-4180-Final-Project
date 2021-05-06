@@ -19,13 +19,13 @@ MBED Repo Link: [https://os.mbed.com/users/cx872/code/4180-final_project/](https
 
 
 
-### Motivation
+## Motivation
 HVAC Control in old Apartments (e.g. North Avenue East) is achieved through a wall-mounted knob. This can be inaccurate, with an unknown set temperature value and room temperature varying in a wide range wround the "set" temperature.
 
 It can also be inconvenient, with no remote control. We addressed these issues with a temperature-sensing HVAC controller with bluetooth remote control support.
 
 
-### Parts List
+## Parts List
 * Microcontroller -- MBED
 
 * Display -- uLCD-144G2
@@ -39,7 +39,7 @@ It can also be inconvenient, with no remote control. We addressed these issues w
 * Power Supply -- Arduino power supply module (Containing Dedicated Servo power pins and oen USB 5V output for MBED)
 
 
-### Source Code
+## Source Code
 Github Source Code Link: [https://github.com/CPA872/ECE-4180-Final-Project](https://github.com/CPA872/ECE-4180-Final-Project)
 
 Mbed Repository Page Link: [https://os.mbed.com/users/cx872/code/4180-final_project/](https://os.mbed.com/users/cx872/code/4180-final_project/)
@@ -215,10 +215,13 @@ int main() {
 
 ```
 
-### Schematic
+## Schematic
+
+Below is the Schematic for our project.
+
 ![Alt Text](/images/Schematic.png)
 
-### Image Gallery
+## Image Gallery
 ![AltText](/images/IMG_4283.jpg)
 ![AltText](/images/IMG_4276.JPG)
 ![AltText](/images/IMG_4277.JPG)
@@ -228,6 +231,7 @@ int main() {
 ![AltText](/images/IMG_4281.JPG)
 ![AltText](/images/IMG_4282.JPG)
 
+## Videos
 ### Embedded Presentation Video
 {% include youtubePlayer.html id=cG2J5QSIfjU %}
 [Click Here To Play](https://youtu.be/cG2J5QSIfjU)
@@ -237,7 +241,7 @@ int main() {
 [Click Here To Play](https://youtu.be/D2i0VEtWlDY)
 
 
-### Future Work
+## Future Work
 
 We would like to actually use this design in our future apartment (8th Street East)
 
