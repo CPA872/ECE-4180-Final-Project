@@ -46,11 +46,17 @@ Mbed Repository Page Link: [https://os.mbed.com/users/cx872/code/4180-final_proj
 
 
 ### Schematic
-![Alt Text](/images/logo.png)
+![Alt Text](/images/Schematic.png)
 
 ### Image Gallery
-![AltText](/images/logo.png)
-
+![AltText](/images/IMG_4283.jpg)
+![AltText](/images/IMG_4276.JPG)
+![AltText](/images/IMG_4277.JPG)
+![AltText](/images/IMG_4278.JPG)
+![AltText](/images/IMG_4279.JPG)
+![AltText](/images/IMG_4280.JPG)
+![AltText](/images/IMG_4281.JPG)
+![AltText](/images/IMG_4282.JPG)
 
 ### Embedded Presentation Video
 {% include youtubePlayer.html id=cG2J5QSIfjU %}
